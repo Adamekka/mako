@@ -1,0 +1,16 @@
+font=UbuntuMono Nerd Font
+format=<b>%a\n%s</b>\n%b
+background-color=#282a36
+width=300
+height=110
+margin=10
+padding=0,5,10
+border-size=3
+border-color=#8be9fd
+border-radius=15
+
+[urgency=normal]
+border-color=#8be9fd
+
+[urgency=high]
+border-color=#ff5555
